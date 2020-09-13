@@ -10,7 +10,7 @@
 
 [Private](mailto:simone.rossetti@live.com)
 
-**NB: if you are interested in using the material it would be nice if you contact me first. In any case the use of the material is free as long as the content is not altered and the name of the author and the link to this repo are always cited (MIT license).**
+**NB: if you are interested in using the material or if you have any question don't hesitate to contact me. In any case the use of the material is free as long as the content is not altered and the name of the author and the link to this repo are always cited (MIT license).**
 
 <p float="center">
   <img src="/IMAGES/uni_rrobot_u10.png" width="70%%" title=" "/>

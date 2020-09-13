@@ -1,10 +1,18 @@
 # SR_ROBO
+** AUTHOR:** 
+*Simone Rossetti, Roma, August 2020*
+** CONTACTS:**
+[Istitutional](mailto:rossetti.1900592@studenti.uniroma1.it)
+[Private](mailto:simone.rossetti@live.com)
+
+** NB: if you are interested in using the material it would be nice if you contacted me first. In any case the use of the material is free as long as the content is not altered and the name of the author and the link to this repo are always cited (MIT license).**
 
 <p float="center">
   <img src="/IMAGES/uni_rrobot_u10.png" width="70%%" title=" "/>
 </p>
 
-MATLAB Robotics custom toolbox and examples, linear algebra functions, manipulator's direct kinematic tools, inverse direct kinematic, numerical and analytical methods, differential kinematic, inverse differential kinematic, trajectory planning functions at cartesian and joint space levels, some controle scheme and some basic feedforward-feedback control loops. 
+MATLAB Robotic custom toolbox and examples. 
+It contains: linear algebra functions, manipulator's direct kinematic tools, inverse direct kinematic, numerical and analytical methods, differential kinematic, inverse differential kinematic, trajectory planning functions at cartesian and joint space levels, some controle scheme and some basic feedforward-feedback control loops. 
 Here is a basic example on what you can achieve with this toolbox:
 
 **Anthropomorphic arm with spherical wrist (6R) performing a circular path with end effector changing orientation over quintic time law profile.**

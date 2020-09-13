@@ -52,6 +52,6 @@ Here is a basic example on what you can achieve with this toolbox:
 
 **Result:**
  <p float="center">
-  <img src="/IMAGES/res.png" width="50%%" title=" "/>
-    <img src="/IMAGES/res2.png" width="50%%" title=" "/>
+  <img src="/IMAGES/res.png" width="45%%" title=" "/>
+    <img src="/IMAGES/res2.png" width="45%%" title=" "/>
 </p>

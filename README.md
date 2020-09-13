@@ -16,6 +16,5 @@ Here is a basic example on what you can achieve with this toolbox:
        6       {'0'    }    {'0' }    {'0' }    {'q6'} 
        
  <p float="left">
-  <img src="/images/covid_o.png" width="45%" height="95%" title=" "/>
-  <img src="/images/C32.png" width="45%" title=" "/> 
+  <img src="/IMAGES/uni_rrobot_u10.png" width="55%" title=" "/>
 </p>

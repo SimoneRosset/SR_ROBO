@@ -10,6 +10,7 @@ Here is a basic example on what you can achieve with this toolbox:
 **Anthropomorphic arm with spherical wrist (6R) performing a circular path with end effector changing orientation over quintic time law profile.**
 
 **DH table:**
+
     joint_i     alpha_i      a_i       d_i      theta_i
     _______    _________    ______    ______    _______
 

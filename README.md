@@ -4,8 +4,6 @@
 
 *Simone Rossetti, Roma, August 2020*
 
-**MAIL ME TO:**
-
 [Istitutional](mailto:rossetti.1900592@studenti.uniroma1.it)
 
 [Private](mailto:simone.rossetti@live.com)

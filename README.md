@@ -2,7 +2,7 @@
 
 **AUTHOR:** 
 
-*Simone Rossetti, Roma, August 2020*
+*Simone Rossetti, Rome, August 2020*
 
 [Istitutional](mailto:rossetti.1900592@studenti.uniroma1.it)
 
